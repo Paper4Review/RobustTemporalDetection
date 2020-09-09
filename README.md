@@ -1,4 +1,4 @@
-# Learning Precise Temporal Point Event Detectionwith Misaligned Labels
+# Learning Precise Temporal Point Event Detection with Misaligned Labels
 Under Review
 
 <div style="text-align: justify">
